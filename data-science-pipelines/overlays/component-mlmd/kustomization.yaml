@@ -30,10 +30,10 @@ generatorOptions:
 
 images:
   - name: metadata-envoy
-    newName: gcr.io/ml-pipeline/metadata-envoy
+    newName: gcr.lank8s.cn/ml-pipeline/metadata-envoy
     newTag: 1.7.0
   - name: metadata-grpc
-    newName: gcr.io/tfx-oss-public/ml_metadata_store_server
+    newName: gcr.lank8s.cn/tfx-oss-public/ml_metadata_store_server
     newTag: 1.0.0
   - name: metadata-writer
     newName: quay.io/internaldatahub/metadata-writer

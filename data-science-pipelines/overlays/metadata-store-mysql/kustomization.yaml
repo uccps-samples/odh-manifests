@@ -23,5 +23,5 @@ generatorOptions:
 
 images:
   - name: mysql
-    newName: gcr.io/ml-pipeline/mysql
+    newName: gcr.lank8s.cn/ml-pipeline/mysql
     newTag: "5.7"
